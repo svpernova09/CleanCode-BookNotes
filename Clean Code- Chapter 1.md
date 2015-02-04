@@ -7,7 +7,7 @@
 * Keeping your code clean is a "matter of personal survival".
 * We share the blame for bad code because we contribute to the problem, not enough time, not enough resources because stakeholders, users, and managers are looking at developers to tell them what we think, even if they don't like the truth.
 * Managers may defend the schedule and requirements with passion because it is there job. It is *our* job to defend the code with equal passion.
-* It is unprofessional of programmers to give in to unrealistic deadlines or requirements of managers who don't understand the risks of making messes out of a code base. See Leblan's Law.
+* It is unprofessional of programmers to give in to unrealistic deadlines or requirements of managers who don't understand the risks of making messes out of a code base. See Leblanc's Law.
 * "code sense" the ability to recognize why code is bad and how to make it clean(er)
 * What is Clean Code? elegeant, efficient, pleasing, focused
 * Bad code tries to do too much
